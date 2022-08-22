@@ -1,0 +1,48 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.header-section{
+    background-image: url('../images/donation.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height: 90vh;
+    
+}
+.container{
+    color:#ffffff;
+    width: 60%;
+    margin:auto;
+    text-align: center;
+}
+.container h2{
+    margin: 0;
+    font-size: 75px;
+    padding-top: 200px;
+}
+.container p{
+    font-size: 18px;
+    padding: 30px;
+    font-weight: 300;
+}
+.container a{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: rgb(7, 166, 230);
+    color:#fff;
+    border-radius: 5px;
+}
+
+/* Donate Today Part  */
+.donate-today{
+    width:80%;
+    margin-top: 150px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+.donate-today h3{
+    font-size: 65px;
+}
